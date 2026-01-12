@@ -1,0 +1,24 @@
+{
+  "mentionsound:command.description": "Configure mention sound settings",
+  "mentionsound:command.help.title": "MentionSound - Get notified when someone mentions you",
+  "mentionsound:command.help.usage": "Usage:",
+  "mentionsound:command.help.settings": "  /mentionsound settings - Open settings form",
+  "mentionsound:command.help.soundlist": "  /mentionsound soundlist - Show available sounds",
+  "mentionsound:command.soundlist.title": "Common sounds you can use:",
+  "mentionsound:command.soundlist.note": "You can use any valid Minecraft Bedrock sound name.",
+  "mentionsound:command.error.no_controller": "Could not find player controller",
+
+  "mentionsound:form.settings.title": "MentionSound Settings",
+  "mentionsound:form.settings.name_mention_toggle": "Enable @%1 mentions",
+  "mentionsound:form.settings.name_mention_sound": "Name mention sound",
+  "mentionsound:form.settings.name_mention_sound_placeholder": "e.g. note.pling",
+  "mentionsound:form.settings.here_mention_toggle": "Enable @here mentions",
+  "mentionsound:form.settings.here_mention_sound": "@here mention sound",
+  "mentionsound:form.settings.here_mention_sound_placeholder": "e.g. note.pling",
+  "mentionsound:form.settings.pitch": "Sound pitch",
+  "mentionsound:form.settings.saved": "Settings saved!",
+  "mentionsound:form.settings.closed": "Settings form closed",
+
+  "mentionsound:plugin.enabled": "MentionSound enabled!",
+  "mentionsound:plugin.disabled": "MentionSound disabled!"
+}

@@ -1,0 +1,24 @@
+{
+  "mentionsound:command.description": "配置提及音效设置",
+  "mentionsound:command.help.title": "MentionSound - 当有人提及你时收到通知",
+  "mentionsound:command.help.usage": "用法:",
+  "mentionsound:command.help.settings": "  /mentionsound settings - 打开设置界面",
+  "mentionsound:command.help.soundlist": "  /mentionsound soundlist - 显示可用音效",
+  "mentionsound:command.soundlist.title": "你可以使用的常见音效:",
+  "mentionsound:command.soundlist.note": "你可以使用任何有效的 Minecraft 基岩版音效名称。",
+  "mentionsound:command.error.no_controller": "找不到玩家控制器",
+
+  "mentionsound:form.settings.title": "提及音效设置",
+  "mentionsound:form.settings.name_mention_toggle": "启用 @%1 提及",
+  "mentionsound:form.settings.name_mention_sound": "名字提及音效",
+  "mentionsound:form.settings.name_mention_sound_placeholder": "例如 note.pling",
+  "mentionsound:form.settings.here_mention_toggle": "启用 @here 提及",
+  "mentionsound:form.settings.here_mention_sound": "@here 提及音效",
+  "mentionsound:form.settings.here_mention_sound_placeholder": "例如 note.pling",
+  "mentionsound:form.settings.pitch": "音效音调",
+  "mentionsound:form.settings.saved": "设置已保存！",
+  "mentionsound:form.settings.closed": "设置界面已关闭",
+
+  "mentionsound:plugin.enabled": "MentionSound 已启用！",
+  "mentionsound:plugin.disabled": "MentionSound 已禁用！"
+}
